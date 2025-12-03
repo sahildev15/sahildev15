@@ -51,17 +51,10 @@ Login, OTP, 1–1 chat, media sharing, PRD-based architecture.
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
-- LinkedIn: *your link*  
-- Portfolio: *your link*  
-- Email: *your email*
+- LinkedIn: linkedin.com/in/sahilkumar-flutterdeveloper  
+- Email: sahildeveloper15@gmail.com
 
 ---
 
